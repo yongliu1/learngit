@@ -5,3 +5,4 @@ git has a mutable index called stage.
 
 Creating a new branch is quick & simple£¬merge is quick.
 I am sleepy.
+Git is a good boy.
