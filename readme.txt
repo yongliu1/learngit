@@ -7,3 +7,4 @@ Creating a new branch is quick & simple£¬merge is quick.
 I am energetic.
 Git is a good boy.
 I am a bug.
+How are you?
